@@ -22,7 +22,7 @@
     border: 2px solid black;
     border-radius: 50%;
     margin-top: 20px;
-    margin-left: 220PX;
+    margin-left: 80PX;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.7); /* Sombra preta com 70% de opacidade */;
 }  
 
@@ -39,12 +39,17 @@
     display: flex;
     align-items: center;
     margin-top: 250px;
+    text-align: center;
+}
+
+#meunome{
+    margin-left: 10px;
 }
 
 .caixa-de-fotos{
     background-color: #0F131C;
     padding: 12px;
-    width: 70%;
+    width: 83%;
     margin-left: 100px;
 }
 
